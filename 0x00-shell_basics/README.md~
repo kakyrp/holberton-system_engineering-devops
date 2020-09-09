@@ -1,2 +1,0 @@
-$ wc -l file
-***Test:*** chmod u+x file
