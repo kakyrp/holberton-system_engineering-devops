@@ -14,3 +14,4 @@
 **cp -u *.html ../** copy html
 **mv [[:upper:]]* /tmp/u** move uppercase files
 **rm *~ ** Clean emacs
+**mkdir -p welcome/to/holberton**: Creates parent directories
