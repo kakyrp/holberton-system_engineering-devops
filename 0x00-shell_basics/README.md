@@ -8,3 +8,4 @@
 **rm /tmp/holberton/betty:** Delete the file betty in /tmp/holberton/
 **rmdir /tmp/holberton:** Delete directory holberton that is in /tmp directory
 **cd -:** script that changes the working directory to the previous one.
+**ls -a /home/vagrant/holberton-system_engineering-devops/0x00-shell_basics /boot**: lists with all files
