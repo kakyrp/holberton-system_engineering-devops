@@ -1,0 +1,1 @@
+**usermod -u betty 1000** to change UID
