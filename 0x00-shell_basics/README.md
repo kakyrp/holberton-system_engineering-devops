@@ -9,3 +9,5 @@
 **rmdir /tmp/holberton:** Delete directory holberton that is in /tmp directory
 **cd -:** script that changes the working directory to the previous one.
 **ls -a -l /home/vagrant/holberton-system_engineering-devops/0x00-shell_basics /home/vagrant/holberton-system_engineering-devops /boot**: lists with all files
+**file /tmp/iamafile** Create a file type
+**ln -s /bin/ls __ls__** Create a symbolic link
