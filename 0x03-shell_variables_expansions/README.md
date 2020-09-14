@@ -1,1 +1,2 @@
-***alias [-p] [ls="rm *"]*** Creating an alias
+***alias ls="rm *"*** Creating an alias
+
