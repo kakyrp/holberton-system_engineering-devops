@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -d '\n' -f 1 |ls -1
+cut -d '\' -f 1
